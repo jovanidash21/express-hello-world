@@ -6,6 +6,9 @@
   <img src="https://raw.githubusercontent.com/jovanidash21/software-engineering-activity-one-express.js/master/screenshot.png">
 </p>
 
+## Prerequisite
+* Node.js installed
+
 ## Installation
 1. Clone or download this repository.
 2. Using a terminal or cmd, navigate to the project directory.
