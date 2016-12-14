@@ -1,4 +1,4 @@
-# Software Engineering - Activity One - Express.js
+# Software Engineering - Activity One - Express
 ---
 
 ## Screenshot
