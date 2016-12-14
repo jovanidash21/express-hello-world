@@ -1,1 +1,10 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency Directory
 node_modules/
+
+#Windows Thumbnails
+Thumbs.db
