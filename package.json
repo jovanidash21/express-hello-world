@@ -11,5 +11,10 @@
     "start": "node app.js"
   },
   "author": "Jovani Warguez",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+  },
+  "bugs": {
+  }
 }
