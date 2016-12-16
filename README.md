@@ -10,17 +10,17 @@
 * Node.js installed
 
 ## Installation
-1. Clone or download this repository.
-2. Using a terminal or cmd, navigate to the project directory.
-3. Install node modules
+* Clone or download this repository.
+* Using a terminal or cmd, navigate to the project directory.
+* Install node modules
 ```
 npm install
 ```
-4. Run app.js
+* Run app.js
 ```
 node app.js
 ```
-5. Open a browser and visit ```localhost:8888```
+* Open a browser and visit ```localhost:8888```
 
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
