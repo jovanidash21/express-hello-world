@@ -3,8 +3,10 @@ logs
 *.log
 npm-debug.log*
 
-# Dependency Directory
+# Dependency directory
 node_modules/
 
-#Windows Thumbnails
+# Windows thumbnail cache files
 Thumbs.db
+ehthumbs.db
+ehthumbs_vista.db
