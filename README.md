@@ -7,7 +7,7 @@
 </p>
 
 ## Prerequisite
-* Node.js installed
+* [Node.js](https://nodejs.org/en/) installed.
 
 ## Installation
 * Clone or download this repository.
