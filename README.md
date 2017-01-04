@@ -12,7 +12,7 @@
 ## Installation
 * Clone or download this repository.
 * Using a terminal or cmd, navigate to the project directory.
-* Install node modules
+* Install node modules.
 ```
 npm install
 ```
@@ -20,7 +20,7 @@ npm install
 ```
 node app.js
 ```
-* Open a browser and visit ```localhost:8888```
+* Open a browser and visit ```localhost:8888```.
 
 ## Connect
 - [Wordpress](https://jovaniwarguez.wordpress.com/)
