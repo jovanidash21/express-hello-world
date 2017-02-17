@@ -3,7 +3,7 @@
 
 ## Screenshot
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jovanidash21/software-engineering-activity-one-express.js/master/screenshot.png">
+  <img src="https://raw.githubusercontent.com/jovanidash21/software-engineering-activity-one-express/master/screenshot.png">
 </p>
 
 ## Prerequisite
@@ -11,6 +11,9 @@
 
 ## Installation
 * Clone or download this repository.
+```
+git clone https://github.com/jovanidash21/software-engineering-activity-one-express.git
+```
 * Using a terminal or cmd, navigate to the project directory.
 * Install node modules.
 ```
