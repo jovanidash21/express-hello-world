@@ -14,7 +14,10 @@
 ```
 git clone https://github.com/jovanidash21/software-engineering-activity-one-express.git
 ```
-* Using a terminal or cmd, navigate to the project directory.
+* Navigate to the project directory.
+```
+cd software-engineering-activity-one-express
+```
 * Install node modules.
 ```
 npm install
