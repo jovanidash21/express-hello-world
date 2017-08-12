@@ -7,11 +7,11 @@
 ## Installation
 * Clone or download this repository.
 ```
-git clone https://github.com/jovanidash21/software-engineering-activity-one-express.git
+git clone https://github.com/jovanidash21/express-hello-world.git
 ```
 * Navigate to the project directory.
 ```
-cd software-engineering-activity-one-express
+cd express-hello-world
 ```
 * Install node modules.
 ```
