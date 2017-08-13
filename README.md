@@ -17,8 +17,8 @@ cd express-hello-world
 ```
 npm install
 ```
-* Run app.js
+* Run the project.
 ```
-node app.js
+npm start
 ```
 * Open a browser and visit ```localhost:8888```.
