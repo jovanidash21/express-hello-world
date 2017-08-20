@@ -22,3 +22,6 @@ npm install
 npm start
 ```
 * Open a browser and visit ```localhost:8888```.
+
+## License
+Licensed under [MIT](https://opensource.org/licenses/mit-license.php).
